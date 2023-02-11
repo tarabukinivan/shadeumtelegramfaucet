@@ -12,6 +12,7 @@ bot.setMyCommands([
     {command: '/start', description: 'start'},  
     {command: '/add', description: '/add 0x.... - добавить кошелек'},
     {command: '/my', description: 'your wallet'},
+    {command: '/faucet', description: 'faucet'},
   ])
 const provider = new ethers.providers.getDefaultProvider(network);
 const privateKey = process.env.PRIVATE_KEY
