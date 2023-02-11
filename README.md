@@ -21,6 +21,7 @@ npm i
 install mysql locally.<br>
 create database 'sui_bot'<br>
 create user 'sui_user' and give all privileges<br>
+Set up connection in ./request/my_sql_connect.js<br>
 add 'shardbot' table:
 ```
 CREATE TABLE shardbot (
