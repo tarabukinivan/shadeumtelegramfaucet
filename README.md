@@ -38,6 +38,8 @@ create env settings file and enter private key and telegram token
 cp .env.sample .env
 nano .env
 
+#bot https://t.me/shardeumfaucet_bot
+
 ![alt text](https://oshi.at/uUXF/bLJs.png)
 ![alt text](https://oshi.at/dpNY/ywcd.png)
 ![alt text](https://oshi.at/rYBc/tvBm.png)
