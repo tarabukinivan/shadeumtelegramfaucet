@@ -38,3 +38,4 @@ create env settings file and enter private key and telegram token
 cp .env.sample .env
 nano .env
 
+![alt text](figures/img.png)
