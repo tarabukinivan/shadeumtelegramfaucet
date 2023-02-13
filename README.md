@@ -27,9 +27,10 @@ add 'shardbot' table:
 CREATE TABLE shardbot (
 id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
 userid VARCHAR(15) NOT NULL,
-wallet VARCHAR(42) NOT NULL,
-timestamp VARCHAR(15) DEFAULT NULL
+wallet VARCHAR(42) DEFAULT NULL,
+timestamp VARCHAR(15) DEFAULT 0
 );
+
 
 ```
 5.
